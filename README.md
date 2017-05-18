@@ -1,3 +1,10 @@
+We were 5th (team TIMF):
+
+![TIMF_team](https://raw.githubusercontent.com/fpopic/PalantirExtremeStartupChallenge2017/master/TIMF_team.png)
+
+
+
+
 A Java client to with a simple com.sun.net.httpserver.HttpServer implementation.
 
 ## Dependencies
@@ -19,5 +26,3 @@ You don't need any application server. No Tomcat, no WAR to deploy. The server i
 The server listens on port 9000: [http://localhost:9000/ping](http://localhost:9000/ping)
 
 You can also launch the server with your IDE. You just have to launch `MyHttpServer` class. It has a `main` method.
-
-![TIMF_team](https://raw.githubusercontent.com/fpopic/PalantirExtremeStartupChallenge2017/master/TIMF_team.png)
